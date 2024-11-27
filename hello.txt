@@ -1,2 +1,4 @@
 Hello, World!
-  git add hello.txt
+git add hello.txt
+This is my first Git commit.
+git add hello.txt
